@@ -1,6 +1,6 @@
 # postgres_data_tuning_sample
 
-This project aims to demonstrate performance tuning and indexing strategies for a PostgreSQL database (as an example).
+This project aims to demonstrate performance tuning and indexing strategies for a PostgreSQL database (as an example)
 
 ## Getting Started
 
@@ -55,3 +55,4 @@ This project aims to demonstrate performance tuning and indexing strategies for 
 Run tests to ensure query correctness and performance:
 ```bash
 pytest tests/
+
